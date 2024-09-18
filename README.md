@@ -13,11 +13,11 @@ This repository contains a script that automates the setup and execution of a Me
    ```
 2. Make the script executable:
    ```bash
-    chmod +x /Dll\ hijacking.sh
+    chmod +x Script.sh
    ```
 3. Run the script:
    ```bash
-    ./Dll\ hijacking.sh
+    ./Script.sh
    ```
 4. Enter the IP address (LHOST) and port number (LPORT) when prompted.
 
