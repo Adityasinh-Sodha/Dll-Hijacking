@@ -8,7 +8,7 @@ This repository contains a script that automates the setup and execution of a Me
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AdityaSodha/Dll-Hijacking/
+   git clone https://github.com/Adityasinh-Sodha/Dll-Hijacking/
    cd Dll-Hijacking-main
    ```
 2. Make the script executable:
