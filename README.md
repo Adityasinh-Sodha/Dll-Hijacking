@@ -20,6 +20,7 @@ This repository contains a script that automates the setup and execution of a Me
     ./Script.sh
    ```
 4. Enter the IP address (LHOST) and port number (LPORT) when prompted.
+5. now deploy your dll into the victim's computer
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
