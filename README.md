@@ -26,4 +26,6 @@ This repository contains a script that automates the setup and execution of a Me
 This project is licensed under the MIT License. See the LICENSE file for details.
 ## Disclaimer
 This script is intended for educational purposes only. Use it responsibly and legally.
+## Author
+Developed by **Adityasinh**.
    
